@@ -29,6 +29,11 @@
 </p>
 
 ---
+### 👀 Profile Visits:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu-sharmav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+
 
 ### 🌎 Connect with Me:
 <p align="left">
