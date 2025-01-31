@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
+<h3 align="center">A Passionate Backend Developer | Django & Python Enthusiast</h3>
 
-<!--
-**himanshu-sharmav/himanshu-sharmav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me:
+- 🔭 I’m currently working as a **Backend Developer Intern @ ATG**  
+- 🌱 I’m learning **FastAPI, AWS,React and DevOps**  
+- 💡 I love working on **scalable backend solutions and REST APIs**  
+- 💬 Ask me about **Django, Python, PostgreSQL, and Cloud Deployment**  
+- 📫 How to reach me: **himanshu.sharmav@gmail.com**  
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-sharmav&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu-sharmav&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sharmav&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌎 Connect with Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/himanshu-sharmav/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/himanshu_shv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="mailto:himanshu.sharmav@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
