@@ -21,12 +21,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-sharmav&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-sharmav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu-sharmav&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-sharmav&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sharmav&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sharmav&layout=compact&theme=tokyonight&count_private=true" />
 </p>
+
 
 ---
 ### 👀 Profile Visits:
