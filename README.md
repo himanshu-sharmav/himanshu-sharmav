@@ -15,7 +15,7 @@
 - 🌱 I’m learning **FastAPI, AWS,React and DevOps**  
 - 💡 I love working on **scalable backend solutions and REST APIs**  
 - 💬 Ask me about **Django, Python, PostgreSQL, and Cloud Deployment**  
-- 📫 How to reach me: **himanshu.sharmav@gmail.com**  
+- 📫 How to reach me: **himanshusharma.dev80@gmail.com**  
 
 ---
 
