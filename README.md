@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working as a **Backend Developer Intern @Digital-Aplha**  
+- 🔥 I’m also a **FullStack Intern @ [Digital-Alpha](https://digital-alpha.com/)**  
 - 🌱 I’m learning **FastAPI, AWS,React and DevOps**  
 - 💡 I love working on **scalable backend solutions and REST APIs**  
 - 💬 Ask me about **Django, Python, PostgreSQL, and Cloud Deployment**  
