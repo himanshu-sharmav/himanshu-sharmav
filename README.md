@@ -62,7 +62,8 @@
 
 ## 🔥 Terminal Matrix Effect
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="600"/>
+ <img src="https://i.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.webp" width="600"/>
+
 </p>
 
 ---
