@@ -62,8 +62,9 @@
 
 ## 🔥 Terminal Matrix Effect
 <p align="center">
- <img src="https://i.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.webp" width="600"/>
-
+  <video autoplay loop muted playsinline width="600">
+    <source src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.mp4" type="video/mp4">
+  </video>
 </p>
 
 ---
