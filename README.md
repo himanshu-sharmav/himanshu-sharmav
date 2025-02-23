@@ -38,9 +38,16 @@
 
 ---
 
-## 🎮 Fun Zone: Snake Game!
+## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github.com/himanshu-sharmav/himanshu-sharmav/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu-sharmav&theme=onedark" />
+</p>
+
+---
+
+## 👀 Profile Visits:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu-sharmav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
@@ -56,29 +63,6 @@
   <a href="mailto:himanshu.sharmav@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🔥 Terminal Matrix Effect
-<p align="center">
-  <video autoplay loop muted playsinline width="600">
-    <source src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.mp4" type="video/mp4">
-  </video>
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu-sharmav&theme=onedark" />
-</p>
-
----
-
-## 👀 Profile Visits:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu-sharmav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
