@@ -117,25 +117,7 @@
 - 🛠️ **Minimal Tech Stack** – Django 5, Channels 4, Vanilla JS, SQLite  
 
 </td>
-<td width="50%">
 
-### 📊 [Store Monitoring System](https://github.com/himanshu-sharmav/Himanshu_20250428)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
-- 📊 **Real-Time Status Tracking** – Monitors store activity with timezone & business hour support  
-- ⚙️ **Async Report Generation** – Trigger & poll system with background processing  
-- 🚀 **Optimized Processing** – Batch handling, in-memory SQLite, fast timezone conversion  
-- 🧪 **Robust API** – RESTful endpoints to generate & download uptime reports  
-- 🧼 **Reliable Error Handling** – Input validation, detailed error logging  
-- 🛠️ **Lightweight Stack** – Flask, SQLAlchemy, Pandas, SQLite  
-- 🔧 **Easy Setup** – One-click zip-based data processing, simple CLI run  
-- 📁 **CSV Output** – Clean reports for offline analysis & automation  
-
-</td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🍔 [FoodFiesta Platform](https://choolhachowka.com)
