@@ -10,11 +10,13 @@
 </p>
 
 <!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himanshu-sharmav/himanshu-sharmav/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- ──────────────────────────────────────────────────────── -->
 <!--   STATUS BADGES                                         -->
@@ -48,7 +50,7 @@
 - 🎓 **B.Tech Computer Science** | Always learning, always growing
 - 🏆 **Achievement Highlights:**
   - 🥇 Deployed and made the backend of APP published on PlayStore
-  - 🎯 Food App with over 200+ live users monthly.
+  - 🎯 Food App with over 200+ live users monthly
   - 📈 Delivered 15+ production-ready applications
 - 🌱 **Currently Exploring:** Kubernetes, Serverless Architecture, AI/ML Integration
 - 💬 **Let's Talk About:** System Design, Database Optimization, Cloud Architecture
@@ -102,7 +104,6 @@
 - 🚀 **ASGI-Ready Deployment** – Daphne + WhiteNoise for static files  
 - 🛠️ **Minimal Tech Stack** – Django 5, Channels 4, Vanilla JS, SQLite  
 
-
 </td>
 <td width="50%">
 
@@ -119,7 +120,6 @@
 - 🛠️ **Lightweight Stack** – Flask, SQLAlchemy, Pandas, SQLite  
 - 🔧 **Easy Setup** – One-click zip-based data processing, simple CLI run  
 - 📁 **CSV Output** – Clean reports for offline analysis & automation  
-
 
 </td>
 </tr>
@@ -140,7 +140,6 @@
 - ⚙️ **Django + DRF** – PostgreSQL, Redis-ready, scalable API backend  
 - 🌐 **AWS-ready** – EC2, RDS, SES, Route 53 integration  
 - 🧪 **CLI Tools** – Reminders, expiry alerts, Postman API testing  
-
 
 </td>
 <td width="50%">
@@ -260,7 +259,7 @@ text
 <a href="https://linkedin.com/in/himanshu-sharma-055265207"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/himanshu_sharmav"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:himanshusharma.dev80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://himanshu-sharmadev.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+<a href="https://67de83ce0e8e8eb97eb61666--himanshu-sharmadev.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </p>
 
 <!-- Call to Action -->
