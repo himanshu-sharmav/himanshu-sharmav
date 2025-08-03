@@ -41,7 +41,7 @@
 |-----------|------|---------------|
 | [Real-time Chat App]([https://github.com/himanshu-sharmav/](https://github.com/himanshu-sharmav/chat-proj)⬜) | Django Channels • WebSocket | Scales to 50k+ concurrent users |
 | [Store Monitoring System]([https://github.com/himanshu-sharmav/](https://github.com/himanshu-sharmav/Himanshu_20250428)⬜) | Django • JWT • Docker | Plug-and-play prod-ready skeleton |
-| [Food Site](https://himanshu-sharmadev.netlify.app) | React • Django | A Blown Food Mess WEB App |
+| [Food Site](https://choolhachowka.com) | React • Django | A Blown Food Mess WEB App |
 
 More repos ➜ [GitHub ↗](https://github.com/himanshu-sharmav?tab=repositories)
 
