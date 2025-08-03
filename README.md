@@ -23,21 +23,33 @@
 <!-- ──────────────────────────────────────────────────────── -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lives-India-blue?style=for-the-badge&logo=india&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lives-India-blue?style=for-the-badge&logo=flag&logoColor=white"/>
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20Hindi-red?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <b>⚡ Architecting scalable solutions that power millions of users.<br>
+  <b>⚡ Architecting scalable solutions that power millions of users<br>
   💻 Python • Django • AWS • Docker • React • FastAPI</b>
 </p>
 
-<!-- Current Status -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🔭%20Currently%20Working%20On-Real--time%20Chat%20Systems-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🌱%20Learning-Kubernetes%20%26%20Microservices-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💬%20Ask%20Me%20About-Django%20%7C%20AWS%20%7C%20System%20Design-yellow?style=flat-square"/>
-</p>
+<br>
+
+<!-- ──────────────────────────────────────────────────────── -->
+<!--   CURRENT STATUS BADGES                                 -->
+<!-- ──────────────────────────────────────────────────────── -->
+<div align="center">
+  
+  ![Currently Working On](https://img.shields.io/badge/🔭_Currently_Working_On-Real--time_Chat_Systems-blue?style=flat-square)
+  ![Learning](https://img.shields.io/badge/🌱_Learning-Kubernetes_&_Microservices-green?style=flat-square)
+  
+</div>
+
+<div align="center">
+  
+  ![Ask Me About](https://img.shields.io/badge/💬_Ask_Me_About-Django_|_AWS_|_System_Design-yellow?style=flat-square)
+  
+</div>
+
 
 <!-- ──────────────────────────────────────────────────────── -->
 ## 🚀 About Me
