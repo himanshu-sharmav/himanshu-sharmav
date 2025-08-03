@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack
 <!-- ──────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,c,html,css,tailwind,javascript,react,mysql,postgresql,mongodb,redis,nginx,docker,aws,drf,kafka,pandas,numpy,selenium,git,github,linux,vscode,bash,bootstrap,cloudflare,firebase,discord,nodejs,nextjs,php,postman,prisma,rabbitmq,stackoverflow,supabase,ubuntu,yarn" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,java,c,html,css,tailwind,javascript,react,mysql,postgresql,mongodb,redis,nginx,docker,aws,kafka,selenium,git,github,linux,vscode,bash,bootstrap,cloudflare,firebase,discord,nodejs,nextjs,php,postman,prisma,rabbitmq,stackoverflow,supabase,ubuntu,yarn" />
 </p>
 
 
