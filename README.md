@@ -26,7 +26,6 @@
 <!-- ──────────────────────────────────────────────────────── -->
 - 👔 **Full-Stack Intern @ [Digital-Alpha](https://digital-alpha.com/)**  
 - 🏗️ Crafting **high-scale REST APIs**, WebSocket services & event-driven pipelines  
-- 🚀 Hackathon finalist • *ACM ICPC* regionals alum  
 - 🌱 Leveling-up with **Serverless**, **Terraform** & **React**  
 - 💬 *Ask me about*: Django, PostgreSQL, Docker, System Design  
 - ✉️ **himanshusharma.dev80@gmail.com**  
