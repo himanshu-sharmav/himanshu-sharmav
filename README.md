@@ -1,40 +1,97 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=430&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Sharma;Backend+Engineer+%7C+Django+%7C+Python;Cloud+&+API+Enthusiast;Welcome+to+my+GitHub+Profile!" /> </h1> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:243B55&height=150&section=header&text=Himanshu%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" /> </p>
-🚀 About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Sharma;Backend+Developer+%7C+Django+%2B+Python;Cloud-First+%7C+Scalable+Systems+Fan"  alt="Typing SVG"/>
+</h1>
 
-    🛠️ Backend Developer with a passion for scalable systems & clean APIs.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:243B55&height=150&section=header&text=Himanshu%20Sharma&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+</p>
 
-    🏢 FullStack Intern @ Digital-Alpha with industry projects in web and cloud.
+<p align="center">
+  <b>🚀 Turning ideas into robust back-ends.<br>
+  💻 Python • Django • Cloud • DevOps • Fast deliverables</b>
+</p>
 
-    🌱 Currently upskilling in FastAPI, AWS, React, and DevOps.
+## 👨‍💻 About Me
+- 👔 Full-Stack Intern @ [Digital-Alpha](https://digital-alpha.com/)
+- 🏗️ Architecting **high-scale REST APIs** & real-time services
+- 🌱 Currently diving into **FastAPI, AWS, React & CI/CD**
+- 🏆 **2× Backend Intern** 
+- 💬 Ask me about: Django, PostgreSQL, Docker, System Design
+- ✉️ **himanshusharma.dev80@gmail.com**
+- 🌐 **Portfolio:** [himanshu-sharmadev.netlify.app]([https://himanshu-sharmadev.netlify.app](https://67de83ce0e8e8eb97eb61666--himanshu-sharmadev.netlify.app/))
 
-    📈 Strong at Django, Python, PostgreSQL, and Cloud Deployments.
+---
 
-    🏆 Finalist @ Smart India Hackathon 2023 (or another notable achievement—add one!)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3679AC?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
-    🌟 Love building products that create impact.
+---
 
-    🤝 Always open for collaboration & learning!
+## ⚡ Featured Projects
+| 🚀 Project | Tech | Why it’s cool |
+|-----------|------|---------------|
+| [Real-time Chat App]([https://github.com/himanshu-sharmav/](https://github.com/himanshu-sharmav/chat-proj)⬜) | Django Channels • WebSocket | Scales to 50k+ concurrent users |
+| [Store Monitoring System]([https://github.com/himanshu-sharmav/](https://github.com/himanshu-sharmav/Himanshu_20250428)⬜) | Django • JWT • Docker | Plug-and-play prod-ready skeleton |
+| [Food Site](https://himanshu-sharmadev.netlify.app) | React • Django | A Blown Food Mess WEB App |
 
-    📫 Email: himanshusharma.dev80@gmail.com
+More repos ➜ [GitHub ↗](https://github.com/himanshu-sharmav?tab=repositories)
 
-🏗️ Highlight Projects
+---
 
-    YouTube Lite: Minimalist video platform using React & Node.js
+## 📊 Stats&nbsp;&amp;&nbsp;Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-sharmav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-sharmav&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sharmav&layout=compact&theme=tokyonight&count_private=true" alt="Top Langs"/>
+</p>
 
-    Tech-Mart E-Commerce: Full-stack e-commerce MVP with secure payments & admin dashboards
+<!-- Optional contribution graph -->
+<!--
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=himanshu-sharmav&theme=tokyonight" alt="Activity Graph"/>
+</p>
+-->
 
-    Blog Insight: Django-powered personal blog with real-time analytics
-    See more on my Portfolio
+---
 
-🔥 Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-0078D6?style=for-the-badge&logo=azuredevops&logoColor=white"/> </p>
-📈 Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshu-sharmav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-sharmav&theme=tokyonight&hide_border=true" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-sharmav&layout=compact&theme=tokyonight&count_private=true" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=himanshu-sharmav&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" /> </p>
-👨💻 Recent Activity
-<!--START_SECTION:activity--> <!--END_SECTION:activity-->
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu-sharmav&theme=onedark" />
+</p>
 
-(You can automate this section with GitHub Actions to show recent commits, PRs, etc.)
-📫 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/himanshu-sharma-055265207/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/himanshu_sharmav" target="blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="mailto:himanshusharma.dev80@gmail.com" target="blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://67de83ce0e8e8eb97eb61666--himanshu-sharmadev.netlify.app" target="blank"> <img src="https://img.shields.io/badge/Portfolio-6528F7?style=for-the-badge&logo=internetexplorer&logoColor=white"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshu-sharmav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:243B55&height=150&section=footer" /> </p>
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu-sharmav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-sharma-055265207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/himanshu_sharmav" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:himanshusharma.dev80@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:243B55&height=150&section=footer" />
+</p>
