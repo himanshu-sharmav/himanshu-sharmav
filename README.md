@@ -154,18 +154,10 @@
 - 🧪 **CLI Tools** – Reminders, expiry alerts, Postman API testing  
 
 </td>
-<td width="50%">
 
 ### 🔧 More Projects
 [![Repo](https://img.shields.io/badge/🔗-View%20All%20Repositories-blue?style=for-the-badge)](https://github.com/himanshu-sharmav?tab=repositories)
 
-**🎯 Portfolio Highlights:**
-- 15+ Production Applications
-- 100,000+ Lines of Code
-- Open Source Contributions
-- API Design & Documentation
-
-</td>
 </tr>
 </table>
 
@@ -204,45 +196,43 @@
   <img src="https://github-profile-trophy.vercel.app/?username=himanshu-sharmav&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </p>
 
-<!-- ──────────────────────────────────────────────────────── -->
+```markdown
+
 ## 💡 Fun Facts About Me
-<!-- ──────────────────────────────────────────────────────── -->
 
+```
 class HimanshuSharma:
-def init(self):
-self.role = "Backend Architect"
-self.language_spoken = ["Hindi", "English"]
-self.code = {
-"backend": ["Python", "Django", "FastAPI", "Flask"],
-"frontend": ["React", "JavaScript", "HTML/CSS"],
-"database": ["PostgreSQL", "MongoDB", "Redis"],
-"cloud": ["AWS", "Docker", "Kubernetes"],
-"tools": ["Git", "Linux", "VSCode"]
-}
-self.current_focus = "Building scalable microservices"
-self.fun_fact = "I can debug code faster than I can find my keys! 🔍"
-
-text
-def say_hi(self):
-    print("Thanks for dropping by! Let's build something amazing together! 🚀")
+    def __init__(self):
+        self.role = "Backend Architect"
+        self.language_spoken = ["Hindi", "English"]
+        self.code = {
+            "backend": ["Python", "Django", "FastAPI", "Flask"],
+            "frontend": ["React", "JavaScript", "HTML/CSS"],
+            "database": ["PostgreSQL", "MongoDB", "Redis"],
+            "cloud": ["AWS", "Docker", "Kubernetes"],
+            "tools": ["Git", "Linux", "VSCode"]
+        }
+        self.current_focus = "Building scalable microservices"
+        self.fun_fact = "I can debug code faster than I can find my keys! 🔍"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
 me = HimanshuSharma()
 me.say_hi()
+```
 
-text
 
-<!-- ──────────────────────────────────────────────────────── -->
 ## 📊 Weekly Development Breakdown
-<!-- ──────────────────────────────────────────────────────── -->
-<!--START_SECTION:waka-->
 
-Python 15 hrs 42 mins ████████████▓░░ 65.24%
-Django 8 hrs 30 mins ████████░░░░░░░ 35.45%
-JavaScript 4 hrs 15 mins ███▒░░░░░░░░░░░ 17.64%
-AWS Config 2 hrs 45 mins ██▒░░░░░░░░░░░░ 11.43%
-Docker 1 hr 20 mins █░░░░░░░░░░░░░░ 05.55%
 
-text
+```
+Python       15 hrs 42 mins  ████████████▓░░  65.24%
+Django       8 hrs 30 mins   ████████░░░░░░░  35.45%
+JavaScript   4 hrs 15 mins   ███▒░░░░░░░░░░░  17.64%
+AWS Config   2 hrs 45 mins   ██▒░░░░░░░░░░░░  11.43%
+Docker       1 hr 20 mins    █░░░░░░░░░░░░░░  05.55%
+```
 <!--END_SECTION:waka-->
 
 <!-- ──────────────────────────────────────────────────────── -->
