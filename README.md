@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-cyber.onrender.com/graph?username=himanshu-sharmav&bg_color=141E30&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-sharmav&bg_color=141E30&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" />
 </p>
 
 <!-- ──────────────────────────────────────────────────────── -->
@@ -36,8 +36,9 @@
 ## 🛠️ Tech Stack
 <!-- ──────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,aws,docker,kubernetes,react,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,java,c,javascript,react,mysql,postgresql,mongodb,redis,docker,aws,drf,pandas,numpy,selenium,git,github,linux,vscode,jinja,websocket,firebase" />
 </p>
+
 
 <!-- ──────────────────────────────────────────────────────── -->
 ## 🚀 Spotlight Projects
