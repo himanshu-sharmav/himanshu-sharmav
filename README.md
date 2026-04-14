@@ -232,7 +232,7 @@ Docker       1 hr 20 mins    █░░░░░░░░░░░░░░  05.5
 <a href="https://linkedin.com/in/himanshu-sharma-055265207"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/himanshu_sharmav"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:himanshusharma.dev80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://67de83ce0e8e8eb97eb61666--himanshu-sharmadev.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+<a href="[https://67de83ce0e8e8eb97eb61666--himanshu-sharmadev.netlify.app/](https://devhimanshu.space/)"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </p>
 
 <!-- Call to Action -->
